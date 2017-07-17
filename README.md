@@ -1,5 +1,5 @@
-# MaliV.github.io
-I hope this project becomes my first website. This will be a great first creation.
+# The Blog of MaliVibes
+Only the trillest, the realest, the illest, and the chillest can read my blog. I love yall.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TheGreatMaliV/MaliV.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
