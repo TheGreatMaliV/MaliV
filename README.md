@@ -1,10 +1,12 @@
 # The Blog of MaliVibes
 Only the trillest, the realest, the illest, and the chillest can read my blog. I love yall.
-## Welcome to GitHub Pages
+## Welcome to The World of MalVibes
 
-You can use the [editor on GitHub](https://github.com/TheGreatMaliV/MaliV.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+First off, I want to thank you foor taking viewing my page. I love all my supporters. This page will open you to the wrld of MaliVibes. What is MaliVibes? It's basically the mood, feelings and vibes of Malik Manning, put in a small website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Viewers will see incredible pictures, read brilliant blogs, and begin learning more and more about Mr. Malik Manning.
+
+Please feel free to leave snapchat, instagram, and twitter names in the comments so i can contact you.
 
 ### Markdown
 
